@@ -8,7 +8,7 @@ I am an introvert who rarely comes out of his room and talks to people.
 
 I mostly spend my time making projects, reading books, daydreaming and helping my mom in household chores(whenever i am home).
 
-My main tech stack is c++, javascript(still learning), html, css or scss. 
+My main tech stack is c++, javascript(still learning),java,python, html, css or scss.
 
 I have created a bunch of projects in my pc but uploaded only those which are good.
 
